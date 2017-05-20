@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/development/open-source/Advanced_Java" value="2946901674000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/CallingDiscoveredMicroservices/microservice-chassis" value="2887415180000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/ChassisSetUp/microservice-chassis" value="2885995018000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/Configuration/microservice-chassis" value="2886365100000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/ConsulRegistration/microservice-chassis" value="2886928390000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/HealthChecks/microservice-chassis" value="2887894166000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/Logging/microservice-chassis" value="2888050824000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 4/Monitoring/microservice-chassis" value="2903354888000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/APIGateway/local-news-service" value="2890525362000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/APIGateway/news-gateway-service" value="2890557392000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/APIGateway/weather-service" value="2890435854000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/ASimpleMicroservice/weather-service" value="2891996568000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/Hystrix/local-news-service" value="2890525362000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/Hystrix/news-gateway-service" value="2890557392000" />
+        <entry key="$USER_HOME$/development/open-source/Developing Ops-Friendly Microservices - Working Files/Chapter 5/Hystrix/weather-service" value="2890435854000" />
+        <entry key="$USER_HOME$/development/open-source/RxJava" value="2983231192000" />
+        <entry key="$USER_HOME$/development/open-source/rxjava-book-examples" value="1492895514000" />
+        <entry key="$USER_HOME$/development/open-source/rxjava-workshop" value="1494007592000" />
+        <entry key="$USER_HOME$/development/open-source/spring-boot-restful" value="1494358660000" />
+        <entry key="$USER_HOME$/development/open-source/wiremock" value="1451404436000" />
+        <entry key="$USER_HOME$/development/sfw/vulcan" value="1493652756000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
